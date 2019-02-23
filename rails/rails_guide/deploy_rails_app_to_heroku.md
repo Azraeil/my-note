@@ -95,7 +95,7 @@ brew install postgresql
 
 ```bash
 # Linux
-sudo apt-get install libqp-dev
+sudo apt-get install libpq-dev
 ```
 
 9. 安裝 PostgreSQL：`bundle install`
